@@ -1,6 +1,6 @@
-#!/bin/python3
+#!/usr/bin/python3
 """
-computes the square value of all integers of a matrix
+computes the square value of all integers of a matrix.
 
 Args:
     matrix: 2D list to perform operation on
@@ -13,5 +13,5 @@ Args:
 def square_matrix_simple(matrix=[]):
     new_list = []
     for items in matrix:
-        new_list.append(list(map(lambda x: x ** 2, items)))
+        new_list.append(list(map(lambda X: X ** 2, items)))
         return new_list
