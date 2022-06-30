@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-def copy_list(b):
+def copy_list(e):
     """Returns a copy of a list"""
-    return list.copy(1)
+    return list.copy(e)
