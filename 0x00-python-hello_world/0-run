@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 #!/usr/bin/python3
 Best School
 l
+=======
+#!/bin/bash
+/usr/bin/python3 $PYFILE
+>>>>>>> 7df5d49938f0d7a4db90f736da8d313f89cab41e
